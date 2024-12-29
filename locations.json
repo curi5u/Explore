@@ -1,0 +1,3471 @@
+{
+  "features": [
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.8863857,
+          46.088982699999995
+        ],
+        "type": "Point"
+      },
+
+      "properties": {
+        "name": "Al Rifugio Agostini",
+        "area": "Paganella (TN)",
+        "km": "6.5km | A/R",
+        "altitude": "970m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Salita lontana dalle mete turistiche lungo la Val D'Ambiez fino al rifugio Agostini, ai piedi del Brenta. <br>",
+        "parking": "Libero",
+        "photo": "images/ambiez.jpeg",
+        "link": "link"
+        
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.6837451,
+          46.7267753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Oberettes",
+        "area": "Val Venosta (BZ)",
+        "km": "15km | Anello",
+        "altitude": "1050m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+        
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.8369418,
+          46.239374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Passo Grosté",
+        "area": "Val Meledrio (TN)",
+        "km": "21km | Anello",
+        "altitude": "1650m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.472773,
+          46.599267999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Anello Di Ajarnola",
+        "area": "Ampezzo (VN)",
+        "km": "13.5km | Anello",
+        "altitude": "1300m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.7249,
+          46.56642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Secëda",
+        "area": "Val Gardena (BZ)",
+        "km": "8.5km | A/R",
+        "altitude": "870m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Perfetto per eludere la costosa funivia.<br> ",
+        "parking": "A pagamento (in stagione alta)",
+        "photo": "images/alseceda.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.7249,
+          46.56642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Piz Dla Gardenacia",
+        "area": "Val Badia (BZ)",
+        "km": "8.5km | A/R",
+        "altitude": "870m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.827539999999999,
+          46.483326999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Canziani",
+        "area": "Val D'Ultimo (BZ)",
+        "km": "10.5km | Anello",
+        "altitude": "720m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.788066899999999,
+          46.4570191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val Contrin",
+        "area": "Val Di Fassa (TN)",
+        "km": "5km | A/R",
+        "altitude": "530m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Parcheggio vicino ai cassonetti sulla strada.<br>Si può salire anche al Passo Ombretta oltre al rifugio.<br>",
+        "parking": "A pagamento (in stagione alta)",
+        "photo": "images/valcontrin.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.6460627,
+          46.986774499999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Passo Di Vizze 🇦🇹",
+        "area": "Val Di Vizze (BZ)",
+        "km": "18.5km | Anello",
+        "altitude": "1200m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.851198,
+          46.206381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Ai Brentei",
+        "area": "Val Meledrio (TN)",
+        "km": "5km | A/R",
+        "altitude": "870m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.500161,
+          46.635642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alpe Di Villandro",
+        "area": "Val D'Isarco (BZ)",
+        "km": "12.5km | A/R",
+        "altitude": "480m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Facile passeggiata in alpeggio fino alla Chiesetta dei Morti.<br>",
+        "parking": "Libero",
+        "photo": "images/villandro.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.776091,
+          46.641017999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Malga Di Corzes",
+        "area": "Val Venosta (BZ)",
+        "km": "5km | A/R",
+        "altitude": "700m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.968052799999999,
+          46.4562883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Migògn",
+        "area": "Val Cordevole (VN)",
+        "km": "7.3km",
+        "altitude": "850m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.9682,
+          46.553669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lè Vert (Da Corvara)",
+        "area": "Val Badia (BZ)",
+        "km": "21km | A/R",
+        "altitude": "900m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Versione gratuita ma più lunga del percorso più mainstream dal Rifugio Pederü.<br>",
+        "parking": "Libero",
+        "photo": "images/levert.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.3198229,
+          46.9666139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Cremona",
+        "area": "Val Di Fleres (BZ)",
+        "km": "6km | A/R",
+        "altitude": "980m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.84863,
+          46.63169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Valle Dei Molini",
+        "area": "Val Badia (BZ)",
+        "km": "5km | A/R",
+        "altitude": "820m",
+        "difficulty": "Moderata",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Passeggiata tra i vecchi molini di Miscì, costeggiando il Rio di Seres.<br>",
+        "parking": "Libero",
+        "photo": "images/vallemolini.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.92591,
+          46.55311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ai Laghi Del Covolo",
+        "area": "Val D'Ultimo (BZ)",
+        "km": "4.2km | A/R",
+        "altitude": "680m",
+        "difficulty": "Moderata",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Salita tra le torbiere d'alta quota della Val D'Ultimo, passando per la Malga Kühberg.<br>",
+        "parking": "Libero",
+        "photo": "images/laghicovolo.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.549572999999999,
+          46.732898999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ai Laghi Gelati",
+        "area": "Val D'Isarco (BZ)",
+        "km": "2.7km | A/R",
+        "altitude": "500m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Breve percorso ben nascosto dai turisti verso dei bellissimi e freddissimi laghetti alpini.<br>",
+        "parking": "Libero",
+        "photo": "images/laghigelati.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.6134665,
+          46.4043426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Anello Passo Vajolon",
+        "area": "Val Di Fassa (TN)",
+        "km": "11km | Anello",
+        "altitude": "1020m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.1120459,
+          46.5297949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Di Monte Luco",
+        "area": "Passo Palade (BZ)",
+        "km": "7km | A/R",
+        "altitude": "680m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso attraverso le malghe verso un silenzioso laghetto alpino.<br>",
+        "parking": "Libero",
+        "photo": "images/monteluco.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+      
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.8274706,
+          46.188725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio XII Apostoli",
+        "area": "Val Meledrio (TN)",
+        "km": "7.5km | A/R",
+        "altitude": "1190m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.805169,
+          46.2638685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Rosetta",
+        "area": "Val Del Primiero (TN)",
+        "km": "5.8km | A/R",
+        "altitude": "1140m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.6091169,
+          46.4041253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Labirinto Del Latemar",
+        "area": "Val D'Ega (BZ)",
+        "km": "12km | Anello",
+        "altitude": "500m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso ai piedi del Latemar fino al Lago Di Carezza e indietro. <br>",
+        "parking": "Libero",
+        "photo": "images/labirintolatemar.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.36340,
+          46.68200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Croda Rossa",
+        "area": "Val Pusteria (BZ)",
+        "km": "16.5km | A/R",
+        "altitude": "1810m",
+        "difficulty": "Difficile",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso impegnativo fino al Passo Sentinella, sotto alla cima.<br>Da lì si può fare anche la ferrata fino alla vetta se attrezzati.<br>",
+        "parking": "Libero",
+        "photo": "images/crodarossa.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.9722703,
+          47.0005695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Keilbachmoos",
+        "area": "Valle Aurina (BZ)",
+        "km": "3.5km | A/R",
+        "altitude": "670m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.8527189,
+          46.949262499999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Giovanni Porro",
+        "area": "Valle Aurina (BZ)",
+        "km": "12km | Anello",
+        "altitude": "1050m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.867688,
+          46.497118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flatschberg Alm",
+        "area": "Val D'Ultimo (BZ)",
+        "km": "3km | A/R",
+        "altitude": "340m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.8756991,
+          46.488873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Casera Alta",
+        "area": "Val D'Ultimo (BZ)",
+        "km": "18km | A/R",
+        "altitude": "1140m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.778402,
+          46.464991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Ciampac",
+        "area": "Val Di Fassa (TN)",
+        "km": "19km",
+        "altitude": "1550m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.618927,
+          46.339943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Malga Paludei",
+        "area": "Val Di Peio (TN)",
+        "km": "10km | Anello",
+        "altitude": "550m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.9615666,
+          46.319187899999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Sasso Rosso",
+        "area": "Val Di Non (TN)",
+        "km": "7km | A/R",
+        "altitude": "690m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso semplice attraverso i prati d'alta quota. <br> Potete dormire al Bivacco Costanzi-Albasini poco sotto, è figo ma fate molta attenzione al ghiaione per scendere al bivacco, è assai brutto.<br>",
+        "parking": "Libero ⚠️ lungo tratto sterrato da Cles.",
+        "photo": "images/sassorosso.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.042947999999999,
+          46.69826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Zieltal",
+        "area": "Val Venosta (BZ)",
+        "km": "6km | A/R",
+        "altitude": "900m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.82132,
+          46.463868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Padòn",
+        "area": "Val Di Fassa (VN)",
+        "km": "10km | Anello",
+        "altitude": "720m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.4406122,
+          46.818787799999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Corno Bianco",
+        "area": "Val Sarentino (BZ)",
+        "km": "10km | A/R",
+        "altitude": "550m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.68746,
+          46.4884438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Martelltal",
+        "area": "Val Di Martello (BZ)",
+        "km": "14.7km | A/R",
+        "altitude": "1060m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.757539999999999,
+          46.50908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Anello Sassolungo",
+        "area": "Val Gardena (BZ)",
+        "km": "10.7km | Anello",
+        "altitude": "840m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.794506,
+          46.378290
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fuciade",
+        "area": "Val Di Fassa (TN)",
+        "km": "11km | A/R",
+        "altitude": "350m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Escursione tranquilla passando per il Rifugio Fuciade, fino all'imbocco con il vallone più su.<br>Fare molta attenzione alla ghiaia se si decide di proseguire fino alle Cirèle.<br>",
+        "parking": "Libero",
+        "photo": "images/fuciade.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.511029299999999,
+          46.051144699999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val Di Fumo",
+        "area": "Val Di Chiese (TN)",
+        "km": "24km | A/R",
+        "altitude": "660m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.1018497,
+          46.4029142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Tissi",
+        "area": "Val Di Zoldo (VN)",
+        "km": "8.5km | A/R",
+        "altitude": "1000m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Salita ben tracciata per salire al celebre lago dolomitico e l'accogliente rifugio arroccato sopra Alleghe, seguendo parte della leggendaria Alta Via 1.<br>",
+        "parking": "Libero",
+        "photo": "images/coldai.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.8769677,
+          46.218635899999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Pradidali",
+        "area": "Val Del Primiero (TN)",
+        "km": "11km | A/R",
+        "altitude": "1150m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.78693,
+          46.941489999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alta Via Di Neves",
+        "area": "Val Di Tures (BZ)",
+        "km": "17.5km | Anello",
+        "altitude": "1140m",
+        "difficulty": "Difficile",
+        "seasons": "🍁🌻",
+        "beenthere": "true",
+        "info": "Anello abbastanza impegnativo ai piedi delle Alpi Della Zillertal, attraverso paesaggi rocciosi d'alta quota. Sconsigliato in caso di neve.<br>",
+        "parking": "A pagamento",
+        "photo": "images/neves.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.689399,
+          46.446355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Di Antermoia (Dalla Val Duron)",
+        "area": "Val Di Fassa (TN)",
+        "km": "7km | A/R",
+        "altitude": "780m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "Libero ⚠️ poco posto a Monzon, purtroppo la strada per il Gardecia è bloccata e sorvegliata - presumibilmente in alta stagione",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.127429999999999,
+          47.049879999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Malga Rossa",
+        "area": "Valle Aurina (BZ)",
+        "km": "7.5km | A/R",
+        "altitude": "1060m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Ascesa tra le miniere della Valle Aurina e piacevole cammino sulla traccia del torrente Roettalbach fino ai piedi dei ghiacciai.<br>",
+        "parking": "Libero - poco posto",
+        "photo": "images/malgarossa.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.475411,
+          46.80133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val Di Roia",
+        "area": "Val Venosta (BZ)",
+        "km": "13.8km",
+        "altitude": "780m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.0414,
+          46.639129999999994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Malga Sennes",
+        "area": "Val Badia (BZ)",
+        "km": "24km | Anello",
+        "altitude": "1320m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.8721944,
+          46.949745199999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mitterbachtal",
+        "area": "Valle Aurina (BZ)",
+        "km": "12km | A/R",
+        "altitude": "1110m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.326181,
+          46.966592999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Calciati Al Tribulaun",
+        "area": "Val Di Fleres (BZ)",
+        "km": "6km | A/R",
+        "altitude": "1020m",
+        "difficulty": "Media",
+        "seasons": "🍁🌻",
+        "beenthere": "true",
+        "info": "Ripida ascesa da Fleres al Rifugio Calciati, ai piedi del maestoso massiccio del Tribulaun, e affiancato dal laghetto alpino di Sanes.<br>",
+        "parking": "Libero",
+        "photo": "images/tribulaun.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.599445,
+          46.134235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Cima D'Asta",
+        "area": "Valsugana (TN)",
+        "km": "15km | Anello",
+        "altitude": "1180m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.0925614,
+          46.7963362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Malga Lazins",
+        "area": "Val Di Plan (BZ)",
+        "km": "4.5km | A/R",
+        "altitude": "260m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Passeggiata tranquilla da Plan alla malga ai piedi dell'imponente Gruppo di Tessa.<br>Guardate se riuscite a spottare il gattino.<br>",
+        "parking": "A pagamento",
+        "photo": "images/malgalazins.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.7876817,
+          46.747523099999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Giogo Tasca",
+        "area": "Val Senales (BZ)",
+        "km": "10.5km",
+        "altitude": "850m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.004993599999999,
+          46.8536791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mühlbachtal",
+        "area": "Val Di Tures (BZ)",
+        "km": "7.5km | A/R",
+        "altitude": "430m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.0967519,
+          46.516557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "All'Altopiano Del Mondeval",
+        "area": "Ampezzo (VN)",
+        "km": "14km | Anello",
+        "altitude": "1080m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/mondeval.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.728741099999999,
+          46.633561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Delle Odles",
+        "area": "Val Di Funes (BZ)",
+        "km": "10.5km | Anello",
+        "altitude": "650m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Escursione dalla Val Di Funes ai piedi del massiccio delle Odles. <br>",
+        "parking": "A pagamento",
+        "photo": "images/rifugioodles.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.8815888,
+          46.3131268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val Delle Comelle",
+        "area": "Val Del Biois (VN)",
+        "km": "7.5km | A/R",
+        "altitude": "1300m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.0083001,
+          46.8178781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Schwarzwandtal",
+        "area": "Val Pusteria (BZ)",
+        "km": "20km",
+        "altitude": "1400m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.2637962,
+          46.593722299999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alle Tre Cime",
+        "area": "Val Pusteria (VN)",
+        "km": "19km | Anello",
+        "altitude": "1040m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Anello attorno alle acclamate Tre Cime, ma col parcheggio gratis.<br>",
+        "parking": "Libero",
+        "photo": "images/trecime.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.75291,
+          46.563947999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Stevia",
+        "area": "Val Gardena (BZ)",
+        "km": "10km | A/R",
+        "altitude": "900m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.1578775,
+          46.7019927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ai Laghi Spronser",
+        "area": "Val Venosta (BZ)",
+        "km": "10km | A/R",
+        "altitude": "1800m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.4458328,
+          46.752131399999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Forcella Vallaga",
+        "area": "Val Sarentino (BZ)",
+        "km": "5km | A/R",
+        "altitude": "860m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso dal Lago di Valdurna ad un laghetto alpino sui 2450m di altezza, passando per boschi di pino mugo e valli glaciali.<br>",
+        "parking": "Libero",
+        "photo": "images/valdurna.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.926981,
+          46.734417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Francesco Petrarca",
+        "area": "Val Di Fundres (BZ)",
+        "km": "12km | A/R",
+        "altitude": "1230m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.08722,
+          46.940149999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Malersee",
+        "area": "Val Di Tures (BZ)",
+        "km": "10km | A/R",
+        "altitude": "990m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.797709999999999,
+          46.846019999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Di Pausa",
+        "area": "Val Pusteria (BZ)",
+        "km": "5.3km | A/R",
+        "altitude": "890m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Semplice salita attraverso le valli fino ad un laghetto alpino.<br>",
+        "parking": "Libero",
+        "photo": "images/lagopausa.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.251936899999999,
+          46.8683899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klammalm",
+        "area": "Val Racines (BZ)",
+        "km": "8km | Anello",
+        "altitude": "870m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.2714805,
+          46.9289350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sentiero Dei 7 Laghi",
+        "area": "Val Ridanna (BZ)",
+        "km": "20km | Anello",
+        "altitude": "1500m",
+        "difficulty": "Media",
+        "seasons": "🍁🌻",
+        "beenthere": "true",
+        "info": "Sentiero impegnativo attraverso splendidi laghi alpini, ai piedi dei ghiacciai della Val Ridanna.<br>",
+        "parking": "Libero",
+        "photo": "images/settelaghi.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.641696,
+          46.838423999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Bivacco Pio XI",
+        "area": "Vallelunga (BZ)",
+        "km": "8km | A/R",
+        "altitude": "590m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.81404,
+          46.67512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Anello Sass De Pütia",
+        "area": "Val Badia (BZ)",
+        "km": "15.5km | Anello",
+        "altitude": "670m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Sentiero di media difficoltà attorno all'acclamato e isolato massiccio del Pütia, con la possibilità di salire in vetta senza grande difficoltà. <br>",
+        "parking": "A pagamento",
+        "photo": "images/putia.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.8109937,
+          46.5517724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pisciadù",
+        "area": "Val Badia (BZ)",
+        "km": "9km | A/R",
+        "altitude": "1000m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "Libero",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.9227480,
+          46.6419501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Prati Dell'Armentara",
+        "area": "Val Badia (BZ)",
+        "km": "8.5km | A/R",
+        "altitude": "350m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Passeggiata molto tranquilla sui prati alpini fino alla Dlijia De La Crusc. <br>",
+        "parking": "Libero",
+        "photo": "images/armentara.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.6810414,
+          46.4150771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val De La Mare",
+        "area": "Val Di Peio (TN)",
+        "km": "4km | A/R",
+        "altitude": "640m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.6591720,
+          46.8166770
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Grande E Piccolo",
+        "area": "Val Pusteria (BZ)",
+        "km": "10.5km | A/R",
+        "altitude": "1130m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.071639699999999,
+          46.9613279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Malga Dei Dossi",
+        "area": "Val Di Tures (BZ)",
+        "km": "6.5km | A/R",
+        "altitude": "600m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Escursione in valle e oltre il lago Klamml, fino al confine austriaco. <br>",
+        "parking": "Libero",
+        "photo": "images/malgadossi.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.967979999999999,
+          46.72271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Anello Piz Da Peres",
+        "area": "Val Badia (BZ)",
+        "km": "7km | Anello",
+        "altitude": "800m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.6049166,
+          46.537958599999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "All'Alpe Di Tires",
+        "area": "Val D'Isarco (BZ)",
+        "km": "25km | Anello",
+        "altitude": "1470m",
+        "difficulty": "Media",
+        "seasons": "🍁🌻",
+        "beenthere": "true",
+        "info": "Spettacolare percorso da Compatsch, per raggiungere il Rifugio Bolzano passando per i Denti Di Terrarossa.<br>",
+        "parking": "Libero ⚠️ Bisogna arrivare prima delle 9:00, sennò la strada è chiusa. Consigliabile arrivare molto prima delle 9:00, perchè il parcheggio si riempie in un attimo, ed è l'unico gratuito nel raggio di kilometri.<br>",
+        "photo": "images/tires.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.776949,
+          46.416959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Dorigoni",
+        "area": "Val Di Rabbi (TN)",
+        "km": "8km | A/R",
+        "altitude": "1100m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Ascesa attraverso un monumentale bosco di larici e brulli terreni d'alta quota.<br>",
+        "parking": "A pagamento (in stagione alta)",
+        "photo": "images/dorigoni.jpeg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.352721,
+          46.511260
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Per Soprabolzano",
+        "area": "Bolzano (BZ)",
+        "km": "8km | A/R",
+        "altitude": "960m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Per evitare la costosa Funivia del Renon, si può raggiungere Soprabolzano con un'adorabile escursione, attraverso il Sentiero Dei Castagni e il grazioso villaggio di Maria Himmelfahrt / L'Assunta. <br>",
+        "parking": "Libero - sotto a Ponte Sant'Antonio",
+        "photo": "images/oberbozen.jpeg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.472788999999999,
+          46.706106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Gola Di Uina 🇨🇭",
+        "area": "Val Venosta (BZ)",
+        "km": "8km | A/R",
+        "altitude": "760m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.621443,
+          46.880198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lago Selvaggio",
+        "area": "Val Pusteria (BZ)",
+        "km": "18km | A/R",
+        "altitude": "1070m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "",
+        "parking": "Bisogna salire prima delle 9:00 al parcheggio (in alta stagione), perchè la strada è chiusa. In alternativa c'è un parcheggio più giù sotto il Sentiero Del Latte.<br>",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.9777249,
+          46.9940549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Di Chiusetta",
+        "area": "Valle Aurina (BZ)",
+        "km": "6km | A/R",
+        "altitude": "1110m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "./images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.5275698,
+          43.6902817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Rocca Della Verruca",
+        "area": "Monti Pisani (TS)",
+        "km": "4.5km | A/R",
+        "altitude": "510m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso semplice tra i pendii dei monti di S. Giovanni, fino agli scenici ruderi arroccati sulle alture. <br>",
+        "parking": "Libero",
+        "photo": "./images/verruca.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.6134997,
+          44.1024873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Giovo (Dal Casentini)",
+        "area": "Appennino Toscano (TS)",
+        "km": "7km | A/R",
+        "altitude": "980m",
+        "difficulty": "Difficile",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso lungo e abbastanza impegnativo per raggiungere la vetta del Monte Giovo passando per Passo Giovo e il Rondinaio. <br>",
+        "parking": "Libero",
+        "photo": "./images/rondinaio.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.4844751,
+          44.240873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Moneglia - Sestri",
+        "area": "Genova (LG)",
+        "km": "4km | A/R",
+        "altitude": "380m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso sulle alture a picco sul mare, verso le calle rocciose di Punta Moneglia. <br>",
+        "parking": "Libero",
+        "photo": "./images/moneglia.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.198896999999999,
+          44.1326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Tambura (Da Foce Di Cardeto)",
+        "area": "Alpi Apuane (TS)",
+        "km": "6km | A/R",
+        "altitude": "960m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Una ripida salita alle spettacolari pendici del Pisanino, oltrepassando la foce e tra le alture erbose fino alla Cava Focolaccia. <br>",
+        "parking": "Libero",
+        "photo": "./images/cardeto.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.198938,
+          44.132504999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Pizzo D'Uccello",
+        "area": "Alpi Apuane (TS)",
+        "km": "3km | A/R",
+        "altitude": "720m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Una divertente salita con un po' di semplice arrampicata tra le scoscese pareti del pizzo. <br> Consigliabile avere un passo sicuro e meno vertigini possibili. <br>",
+        "parking": "Libero",
+        "photo": "./images/pizzoduccello.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.220132699999999,
+          44.3041602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "All'Alpe Di Succiso",
+        "area": "Appennino Reggiano (EM)",
+        "km": "13km | Anello",
+        "altitude": "950m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Ascesa impegnativa attraverso le praterie e gli incredibili Pratoni Del Secchia, fino alle sceniche creste dell'Alpe.<br>",
+        "parking": "Libero",
+        "photo": "./images/succiso.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.210033,
+          44.090275999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Tambura (Per La Via Vandelli)",
+        "area": "Alpi Apuane (TS)",
+        "km": "6.8km | A/R",
+        "altitude": "1500km",
+        "difficulty": "Difficile",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Una ripidissima e impegnativa, ma spettacolare salita sulla leggendaria mulattiera settecentesca, un tempo unica via di commercio adibita al trasporto del marmo nel nord Italia. <br>",
+        "parking": "Libero",
+        "photo": "./images/vandelli.jpg"
+      },
+      "type": "Feature"
+    },
+
+    
+    {
+      "geometry": {
+        "coordinates": [
+          12.0412614,
+          46.6393096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lè Vert (Dal Pederü)",
+        "area": "Val Badia (BZ)",
+        "km": "6km | A/R",
+        "altitude": "560m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Facile percorso lungo la Val di Fanes, semplice da percorrere anche in Inverno!<br>",
+        "parking": "Libero ⚠️ nella stagione estiva bisogna pagare il passaggio per la Val Tamersc. <br>",
+        "photo": "./images/fanes.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.3013385,
+          43.953313699999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Gabberi",
+        "area": "Alpi Apuane (TS)",
+        "km": "17.5km | Anello",
+        "altitude": "870m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Salita di media difficoltà tra gli ignoti boschi delle pre-alpi apuane, intorno alla montagna sacra degli apuani, dove si possono ancora ritrovare le antiche incisioni pre-romane. <br>",
+        "parking": "Libero - poco posto",
+        "photo": "./images/gabberi.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.9795191,
+          44.038393199999994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bocca Di Magra - Tellaro",
+        "area": "La Spezia (LG)",
+        "km": "8km | A/R",
+        "altitude": "600m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Probabilmente complicato fare la tratta intera, considerando la quantità di incredibili calle e spiagge in cui è quasi imperativo fermarsi. <br>",
+        "parking": "Libero",
+        "photo": "./images/boccadimagra.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.849611,
+          43.809256999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Anello Della Lama",
+        "area": "Foreste Casentinesi (TS)",
+        "km": "12km | Anello",
+        "altitude": "820m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "La discesa verso il pianoro della Lama è un sentiero abbastanza semplice, di una certa ripidità ma adatto a tutti. <br> I maestosi e immensi boschi di faggio e betulla rivelano il loro massimo splendore nella stagione autunnale.<br>",
+        "parking": "Libero",
+        "photo": "./images/lama.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.2878584,
+          44.0222045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Corchia",
+        "area": "Alpi Apuane (TS)",
+        "km": "4km | A/R",
+        "altitude": "820m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Passando dalla bellissima Foce di Mosceta e dal Rifugio Del Freo, si raggiunge la ripida cresta del Corchia, da non sottovalutare per alcuni tratti esposti.<br>",
+        "parking": "Libero - poco posto",
+        "photo": "./images/corchia.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.820673,
+          44.133697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Corno Alle Scale (Dal Cavone)",
+        "area": "Appennino Bolognese (EM)",
+        "km": "6.7km | Anello",
+        "altitude": "600m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "La salita lato Emilia a Punta Sofia, passando per la Valle Del Silenzio. <br> Si può scegliere se scavallare dal più semplice Passo della Porticciola, o se seguire i vertiginosi ma spettacolari Balzi Dell'Ora. <br>",
+        "parking": "Libero",
+        "photo": "./images/cornocavone.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.450861,
+          43.770617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Faeta",
+        "area": "Monti Pisani (TS)",
+        "km": "5km | A/R",
+        "altitude": "700m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Sentiero semplice ma sorprendentemente ripido tra i pini marittimi, per raggiungere la dolce vetta del Monte Faeta. <br>",
+        "parking": "Libero",
+        "photo": "./images/defaultphoto.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.7733875,
+          46.5639909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vallunga",
+        "area": "Val Gardena (BZ)",
+        "km": "5.5km | A/R",
+        "altitude": "455m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Facile escursione dalla popolare vallata gardenese fino al Rifugio Puez, fino a un certo tratto il percorso è molto piacevole anche in Inverno. <br> Il parcheggio è purtroppo a pagamento. <br>",
+        "parking": "A pagamento",
+        "photo": "./images/vallunga.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.345379699999999,
+          43.9878042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Croce",
+        "area": "Alpi Apuane (TS)",
+        "km": "4.5km | A/R",
+        "altitude": "420m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso mediamente impegnativo dal Rifugio Matanna fino all'erbosa vetta del Monte Croce, famosa per la sua caratteristica fioritura primaverile delle giunchiglie.<br>",
+        "parking": "Libero",
+        "photo": "./images/montecroce.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.5917823,
+          44.1788301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bonassola - Anzo",
+        "area": "La Spezia (LG)",
+        "km": "6.5km | A/R",
+        "altitude": "440m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso a picco sul colorito mare ligure, tra boschi e scali, fino alla Punta dei Marmi, vecchia cava tra scogli e smottamenti. <br>",
+        "parking": "Libero - poco posto",
+        "photo": "./images/bonassola.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.363312899999999,
+          46.682372199999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val Fiscalina",
+        "area": "Val Pusteria (BZ)",
+        "km": "6.7km | A/R",
+        "altitude": "950m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "./images/defaultphoto.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.740533,
+          46.478299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val Duron",
+        "area": "Val Di Fassa (TN)",
+        "km": "8.5km | A/R",
+        "altitude": "670m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso semplice, facile da seguire, prosegue all'interno della valle fino a quanto si vuole, ci si può spingere fino ai Denti di Terrarossa. <br>",
+        "parking": "A pagamento (in stagione alta)",
+        "photo": "./images/valduron.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.4321358,
+          43.8284546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Passo Di Dante",
+        "area": "Monti Pisani (TS)",
+        "km": "11.5km | A/R",
+        "altitude": "600m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Lungo percorso attraverso la vegetazione mediterranea delle alture pisane fino allo storico passo citato nella Divina Comemdia. <br>",
+        "parking": "Libero",
+        "photo": "./images/passodante.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.3121387,
+          46.713999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Innerfeldtal",
+        "area": "Val Pusteria (BZ)",
+        "km": "5km | A/R",
+        "altitude": "350m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso molto semplice fino al Rifugio Tre Scarperi, particolarmente adatto anche alle escursioni Invernali. <br>",
+        "parking": "Libero",
+        "photo": "./images/innerfeldtal.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.9665097,
+          44.0436061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Montemarcello - Tellaro",
+        "area": "La Spezia (LG)",
+        "km": "4.5km | A/R",
+        "altitude": "200m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Versione semplificata della tratta da Bocca di Magra, passando per Punta Corvo e il Groppolo. <br>",
+        "parking": "Libero",
+        "photo": "./images/montemarcello.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.968701,
+          46.553165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Pralongià",
+        "area": "Val Badia (BZ)",
+        "km": "9km | A/R",
+        "altitude": "510m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Passeggiata semplice da Armentarola all'Altopiano del Pralongià, da cui si gode di una splendida vista su tutto il Sas Dla Crusc e sul distante Civetta. <br>",
+        "parking": "Libero",
+        "photo": "./images/pralongia.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.2333382,
+          44.0623411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Altissimo",
+        "area": "Alpi Apuane (TS)",
+        "km": "7.5km | Anello",
+        "altitude": "730km",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Escursione vertiginosa sulle creste del Monte Altissimo, passando per il roccioso Passo degli Uncini. <br>",
+        "parking": "Libero",
+        "photo": "./images/altissimo.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.198907,
+          44.132539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Grondilice",
+        "area": "Alpi Apuane (TS)",
+        "km": "3.5km | A/R",
+        "altitude": "780m",
+        "difficulty": "Difficile",
+        "seasons": "🍁🌻",
+        "beenthere": "true",
+        "info": "Escursione impegnativa, in salita tra le faggete, passando per l'Orto Di Donna e salendo per le ghiaiose sponde del Grondilice. <br>",
+        "parking": "Libero",
+        "photo": "./images/grondilice.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.6134287,
+          44.1024421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "All'Alpe Tre Potenze (Dal Casentini)",
+        "area": "Appennino Toscano (TS)",
+        "km": "11km | A/R",
+        "altitude": "950m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Salita dal Passo Giovo sul Femminamorta, attraverso il leggendario Passo D'Annibale, con possibilità di scendere al Lago Nero. <br>",
+        "parking": "Libero",
+        "photo": "./images/trepotenze01.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.3587593,
+          44.0280226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Forato",
+        "area": "Alpi Apuane (TS)",
+        "km": "8.3km | Anello",
+        "altitude": "820m",
+        "difficulty": "Moderata",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Salita ripida tra boscaglia e prati da Fornovolasco al celebre arco di pietra. <br> Il ritorno risulta leggermente esposto in alcuni tratti. <br>",
+        "parking": "Libero",
+        "photo": "./images/monteforato.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.7209691,
+          44.2154884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Cimone (Dal Passo Del Lupo)",
+        "area": "Appennino Modenese (EM)",
+        "km": "4km | A/R",
+        "altitude": "470m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Salita al Monte Cimoncino e Cimone attraverso i prati di Pian Cavallaro, in inverno popolare meta sciistica. <br>",
+        "parking": "Libero",
+        "photo": "./images/cimone01.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.4458,
+          44.211532899999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Prado",
+        "area": "Appennino Reggiano (EM)",
+        "km": "8km | A/R",
+        "altitude": "760m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "La classica escursione al Prado da Casone di Profecchia, passando per Bocca di Massa. <br> Incantevole in ogni stagione, fino a Bocca di Massa è praticabile pure in Inverno abbastanza facilmente con l'uso di ciaspole. <br>",
+        "parking": "Libero",
+        "photo": "./images/monteprado.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.198887,
+          44.13257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Pisanino",
+        "area": "Alpi Apuane (TS)",
+        "km": "4.5km | A/R",
+        "altitude": "1050m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "Libero",
+        "photo": "./images/defaultphoto.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.363491,
+          43.9625884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Prana E Monte Piglione",
+        "area": "Alpi Apuane (TS)",
+        "km": "14.5km | Anello",
+        "altitude": "920m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Semplice escursione, un classico della domenica, sulle Alpi Apuane più dolci, passando per la chiesetta di Campo All'Orzo, fino alla cresta del Piglione, la cui vetta permette una vista strepitosa sulle Panie. <br>",
+        "parking": "Libero",
+        "photo": "./images/pranapiglione.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.315818799999999,
+          44.0707379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Sumbra",
+        "area": "Alpi Apuane (TS)",
+        "km": "5km | A/R",
+        "altitude": "980m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "La classica da Capanne di Careggine, una salita ripida tra faggete e pratoni incolti, un sentiero ben battuto fino all'esposta ma spettacolare sella del Sumbra. <br>",
+        "parking": "Libero - poco posto",
+        "photo": "./images/sumbra.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.558618,
+          46.47837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Bolzano",
+        "area": "Val Di Tires (BZ)",
+        "km": "12km | Anello",
+        "altitude": "1420m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Escursione abbastanza impegnativa sulle coste del Catinaccio, ben attrezzata ma sconsigliata nella stagione invernale. Si sale dalla Val Ciamin su all'Alpe di Tires e si costeggiano le cime di Terrarossa fino all'altopiano dello Sciliar, dalla cui si raggiunge il Rifugio, ritornando passando per Bärenfalle. <br> ",
+        "parking": "Libero",
+        "photo": "./images/tiers01.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.828736,
+          44.059805999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Giro Della Palmaria",
+        "area": "La Spezia (LG)",
+        "km": "9.5km | Anello",
+        "altitude": "540m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Vivace escursione attorno all'iconica isola affacciata a Portovenere. Il biglietto per il traghetto costa 5€ (attenzione perchè l'ultimo è alle 18:00 circa), non manca la possibilità di fare un bagno, soprattutto a Pozzale, sulla sponda meridionale dell'isola. <br>",
+        "parking": "Libero vicino al Muzzerone, altrimenti a pagamento giù a Portovenere. <br>",
+        "photo": "./images/palmaria.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.1406776,
+          44.114959299999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Sagro",
+        "area": "Alpi Apuane (TS)",
+        "km": "2.8km | A/R",
+        "altitude": "470m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Breve escursione non particolarmente impegnativa, da Piazzale Uccelliera fino in vetta all'erboso Monte Sagro, spesso scenario di affascinanti turbinii di nuvole. <br>",
+        "parking": "Libero",
+        "photo": "./images/sagro.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.4451137,
+          43.8260523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Romagna",
+        "area": "Monti Pisani (TS)",
+        "km": "9.5km | Anello",
+        "altitude": "400m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Ben tracciato e semplice, il sentiero sale dal Castello Passerino per raggiungere la Romagna e Rupecava, da cui si può tornare indietro o scendere verso Cerasomma, per poi ritornare a Cocombola attraverso le strade di campagna. <br>",
+        "parking": "Libero",
+        "photo": "./images/romagna.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.3430851,
+          44.0526051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alle Panie",
+        "area": "Alpi Apuane (TS)",
+        "km": "6km | A/R",
+        "altitude": "960m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Da Piglionico, la classicissima salita alla Pania della Croce dal Rifugio Rossi e il Vallone dell'Inferno, che può essere intramezzata anche dalla Pania Secca, ghiaiosa e mal segnata ma comunque fattibile. <br>",
+        "parking": "Libero ⚠️ in teoria è a pagamento ma non lo paga nessuno. <br>",
+        "photo": "./images/pania.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.817304,
+          44.062233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Da Sella Derbi A Monesteroli",
+        "area": "La Spezia (LG)",
+        "km": "5.5km | A/R",
+        "altitude": "1000m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Affascinante sentiero in riva al mare, attraverso le vigne di Schiara, per raggiungere i celebri scalini di Monesteroli. <br>",
+        "parking": "Libero",
+        "photo": "./images/monesteroli.jpeg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.933563,
+          43.700717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Santuario Della Verna",
+        "area": "Foreste Casentinesi (TS)",
+        "km": "5.5km | Anello",
+        "altitude": "360m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Semplice passeggiata per visitare la meravigliosa certosa francescana, nascosta tra i faggi del Casentino. <br>",
+        "parking": "Libero",
+        "photo": "./images/verna.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.8888684,
+          44.075799499999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Gennaio",
+        "area": "Appennino Pistoiese",
+        "km": "6.5km | A/R",
+        "altitude": "1000m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "Libero - poco posto",
+        "photo": "./images/defaultphoto.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.1039064,
+          47.0389396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Della Selva",
+        "area": "Valle Aurina (BZ)",
+        "km": "5km | A/R",
+        "altitude": "800m",
+        "difficulty": "Moderata",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Ripida salita ad un laghetto alpino, passando per una fitta abetina e per altipiani selvaggi. <br>",
+        "parking": "Libero",
+        "photo": "./images/lagoselva.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.586671599999999,
+          44.1414507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Giovo (Dal Lago Santo)",
+        "area": "Appennino Modenese (EM)",
+        "km": "6.5km | A/R",
+        "altitude": "950m",
+        "difficulty": "Moderata",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Percorso impegnativo, talvolta esposto, per il Monte Rondinaio e il Monte Giovo, partendo dal lato toscano dell'Appennino Modenese. <br>",
+        "parking": "A pagamento",
+        "photo": "./images/giovo.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.405308,
+          44.411299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Pietra di Bismantova",
+        "area": "Appennino Reggiano (EM)",
+        "km": "4km | Anello",
+        "altitude": "400m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Facile passeggiata attorno e sopra la simbolica montagna reggiana, famosa per la sua falesia di arrampicata e per gli eventi di slackline. <br>",
+        "parking": "Libero",
+        "photo": "./images/bismantova.jpg"
+      },
+      "type": "Feature"
+    },
+    
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.921491,
+          46.5983197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Sass Dla Crusc",
+        "area": "Val Badia (BZ)",
+        "km": "21.5km | A+Bus",
+        "altitude": "1600m",
+        "difficulty": "Difficile",
+        "seasons": "🍁🌻",
+        "beenthere": "true",
+        "info": "La leggendaria traversata del Fanes. Un percorso difficile lungo le pareti del Sass Dla Crusc, fino alla vetta del Ciaval e poi al Rifugio Pederü lungo l'altopiano del Fanes. <br> Per completare il percorso è ovviamente necessario ritornare via autobus a La Val o tornare indietro a piedi il giorno seguente. <br> ",
+        "parking": "Libero",
+        "photo": "./images/sassdlacrusc.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.103050999999999,
+          44.369533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Sillara",
+        "area": "Cento Laghi (EM)",
+        "km": "5km | A/R",
+        "altitude": "500m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Escursione attraverso il Parco dei Cento Laghi. <br> Oltre le faggete, superando il Lago Verde si sale tra i prati di mirtilli alla cresta che giunge ai Laghetti del Monti Sillara. <br>",
+        "parking": "Libero",
+        "photo": "./images/centolaghi.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.686326,
+          43.979386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alle Cascate Dell'Acquacheta",
+        "area": "Foreste Casentinesi (TS)",
+        "km": "2.5km | A/R",
+        "altitude": "250m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Facile passeggiata nei boschi del Casentino fino alle meravigliose cascate dantesche. <br>",
+        "parking": "Libero - davanti al cimitero, poco posto <br>",
+        "photo": "./images/acquacheta.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.775867,
+          44.121905999999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Corno Alle Scale (Dalla Doganaccia)",
+        "area": "Appennino Bolognese (EM)",
+        "km": "14km | Anello",
+        "altitude": "740m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "La classica salita al Corno Alle Scale, un'escursione abbastanza semplice, passando per il Lago Scaffaiolo e per le creste e i prati del Corno. <br>",
+        "parking": "Libero",
+        "photo": "./images/cornodoganaccia.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.3454981,
+          43.9876797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Matanna",
+        "area": "Alpi Apuane (TS)",
+        "km": "1.20km | A/R",
+        "altitude": "280m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Semplice salita al Monte Matanna, passeggiata adatta a tutti, una buona brevissima introduzione alla montagna. <br>",
+        "parking": "Libero",
+        "photo": "./images/matanna.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.7363037,
+          44.1006025 
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sentiero Azzurro Delle Cinque Terre",
+        "area": "La Spezia (LG)",
+        "km": "13.4km | A/treno",
+        "altitude": "900m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Spettacolare percorso lungo la costa delle Cinque Terre, che permette di visitare i pittoreschi villaggi liguri. Si consiglia di partire presto e di tornare col treno alla stazione di partenza. <br> Attenzione perchè ci vuole il biglietto per accedere al sentiero, è da verificare bene ogni anno perchè è un sistema abbastanza confusionario. <br>",
+        "parking": "Solo raggiungibile col treno ahimè. <br>",
+        "photo": "./images/cinqueterre.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.6871873,
+          46.914713299999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Passo Fundres",
+        "area": "Val Di Fundres (BZ)",
+        "km": "10km | A/R",
+        "altitude": "1100m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "",
+        "photo": "./images/defaultphoto.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.4298804,
+          44.286499299999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Cusna (Da Pianvallese)",
+        "area": "Appennino Reggiano (EM)",
+        "km": "11km | Anello",
+        "altitude": "1000m",
+        "difficulty": "Media",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Fantastica salita al Monte Cusna dal lato Emilia. Un'escursione abbastanza impegnativa ma dai paesaggi estremamente soddisfacenti. <br>",
+        "parking": "Libero",
+        "photo": "./images/cusnapianvallese.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          9.158052,
+          44.346649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "All'Abbazia Di San Fruttuoso (Da Camogli)",
+        "area": "Genova (LG)",
+        "km": "7.5km | A/R",
+        "altitude": "850m",
+        "difficulty": "",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "Libero ⚠️ nella stagione estiva è un disastro, bisogna avere molta pazienza.<br>",
+        "photo": "./images/sfruttuoso.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.703859,
+          46.421018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Val San Nicolò",
+        "area": "Val Di Fassa (TN)",
+        "km": "7.5km | A/R",
+        "altitude": "650m",
+        "difficulty": "Facile",
+        "seasons": "🍁⛄️🌸🌻",
+        "beenthere": "true",
+        "info": "Piacevole passeggiata lungo una delle valli perpendicolari alla Val di Fassa, adatta per un'uscita tranquilla. <br>",
+        "parking": "Libero",
+        "photo": "./images/valsannicolo.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.8063857,
+          46.5495605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Rifugio Puez (Da Passo Gardena)",
+        "area": "Val Badia (BZ)",
+        "km": "8km | A/R",
+        "altitude": "720m",
+        "difficulty": "Media",
+        "seasons": "🍁🌻",
+        "beenthere": "true",
+        "info": "Scenica escursione nell'altopiano roccioso che collega la Furcela De Cir, Sass Da Ciampac e il Rifugio Puez, con la possibilità di salire anche sulla vetta dell'omonima montagna. <br>",
+        "parking": "Libero",
+        "photo": "./images/puez.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.6297442,
+          44.131377799999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "All'Alpe Tre Potenze (Dalla Val Di Luce)",
+        "area": "Appennino Toscano (TS)",
+        "km": "3km | A/R",
+        "altitude": "430m",
+        "difficulty": "Facile",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Semplice e breve escursione per raggiungere la vetta che sovrasta la Val di Luce e il Lago Nero, da non sottovalutare però durante la stagione invernale. <br>",
+        "parking": "Libero",
+        "photo": "./images/alpetrepotenze.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.672302799999999,
+          44.1433319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Cimone (Dal Libro Aperto)",
+        "area": "Appennino Modenese (EM)",
+        "km": "10km | A/R",
+        "altitude": "1100m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Lunga e bellissima escursione per raggiungere il Cimone, passando per le creste e pratoni del Libro Aperto. <br>",
+        "parking": "Libero",
+        "photo": "./images/libroaperto.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.584261,
+          46.548704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Alla Bullaccia",
+        "area": "Alpe Di Siusi (BZ)",
+        "km": "13.5km | A/R",
+        "altitude": "1000m",
+        "difficulty": "Moderata",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Escursione lungo le coste della Bullaccia, per raggiungere l'erboso altopiano che sovrasta l'Alpe di Siusi. <br>",
+        "parking": "Libero - poco posto",
+        "photo": "./images/bullaccia.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          10.4641302,
+          44.2445308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Monte Cusna (Da Civago)",
+        "area": "Appennino Reggiano (EM)",
+        "km": "10km | A/R",
+        "altitude": "1200m",
+        "difficulty": "Media",
+        "seasons": "🍁🌸🌻",
+        "beenthere": "true",
+        "info": "Lunga escursione sull'intera cresta del massiccio del Cusna, attraverso antecime selvagge e rocciosi dirupi. <br>",
+        "parking": "Libero",
+        "photo": "./images/cusnacivago.jpg"
+      },
+      "type": "Feature"
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          11.689390,
+          46.446302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Al Lago Di Antermoia (Dal Vajolet)",
+        "area": "Val Di Fassa (TN)",
+        "km": "11.5km | A/R",
+        "altitude": "1350m",
+        "difficulty": "",
+        "seasons": "",
+        "beenthere": "false",
+        "info": "Da Visitare",
+        "parking": "Libero - poco posto",
+        "photo": "images/defaultphoto.jpg",
+        "link": "link"
+      },
+      "type": "Feature"
+    }
+
+
+
+
+
+
+  ],
+  "type": "FeatureCollection"
+}

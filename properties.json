@@ -1,0 +1,21 @@
+{
+    "features": [
+
+
+      {
+        "properties": {
+          "name": "Val D'Ambiez",
+          "region": "Trentino",
+          "km": "20km",
+          "altitude": "1000m",
+          "beenthere": "false",
+          "info": "percorso molto figo",
+          "photo": "images/test_view.jpg"
+        },
+        "type": "Feature"
+      }
+
+
+    ],
+    "type": "FeatureCollection"
+  }
