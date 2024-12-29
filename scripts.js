@@ -3,23 +3,23 @@
 
 
 // LAYER
-/* var exp_osm = L.tileLayer('https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=c9677aa344434a529392f9edef75852f', {
+var exp_osm = L.tileLayer('https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=c9677aa344434a529392f9edef75852f', {
 	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 	apikey: 'c9677aa344434a529392f9edef75852f',
   maxZoom: 20,
   minZoom: 8,
 });
-*/ 
 
 
 
+/*
  var uo_osm = L.tileLayer('https://tile.thunderforest.com/locus-4za/{z}/{x}/{y}.png?apikey=f944003b5ba34ff3a30dafe96e581f06', {
 	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 	apikey: 'c9677aa344434a529392f9edef75852f',
   maxZoom: 20,
   minZoom: 8,
 });
-
+*/
 
 
 
@@ -61,7 +61,7 @@ let mapOptions = {
     center: [46.4870,11.3516],
     zoom: 9,
     // layers: [Thunderforest_Outdoors] //
-    layers: [uo_osm]
+    layers: [exp_osm]
 }
 
 // MAP
