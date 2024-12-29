@@ -3,21 +3,22 @@
 
 
 // LAYER
-/* var Thunderforest_Outdoors = L.tileLayer('https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=c9677aa344434a529392f9edef75852f', {
+ var baseosm = L.tileLayer('https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=c9677aa344434a529392f9edef75852f', {
 	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 	apikey: 'c9677aa344434a529392f9edef75852f',
   maxZoom: 20,
   minZoom: 8,
 });
-*/
 
 
 
-var baseosm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+
+/* var baseosm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	
   maxZoom: 20,
   minZoom: 8,
 });
+*/ 
 
 
 
